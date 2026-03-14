@@ -217,7 +217,7 @@ html, body, [class*="css"] {
     font-family: 'Syne', sans-serif !important;
     font-size: 1rem !important;
     font-weight: 800 !important;
-    color: #111827;
+    color: #2a3959;
     margin: 0;
     letter-spacing: -0.02em;
 }
@@ -265,7 +265,7 @@ html, body, [class*="css"] {
     font-family: 'Syne', sans-serif;
     font-size: 2.6rem;
     font-weight: 800;
-    color: #111827;
+    color: #2a3959;
     letter-spacing: -0.04em;
     line-height: 1.1;
     margin-bottom: 12px;
